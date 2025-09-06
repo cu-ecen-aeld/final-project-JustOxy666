@@ -7,3 +7,4 @@ Link to "Final Project Overview": [https://github.com/cu-ecen-aeld/final-project
 
 GitHub Project link: [AESD Final Project - Acceleration Meter - JustOxy666](https://github.com/users/JustOxy666/projects/5)
 
+Final Video Overview: https://youtu.be/4ZUXAsjiqPM
